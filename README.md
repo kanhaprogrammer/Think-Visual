@@ -1,1 +1,1 @@
-[thinkvisu](https://thinkvisual.in/)
+# [Think Visual](https://thinkvisual.in/)
